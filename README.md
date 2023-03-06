@@ -4,7 +4,7 @@ if you use it you can download and go to .env fiel and check databse_name,databs
 then you can go to http://example.com/admin/auth and login Username: mehedilrs@gmail.com & password is : 12345678
 now use this apps.
 
-if you find some truble or if you want to help the developer you can contact to
+if you find some truble or if you want to getting help from the developer you can contact to
 
 what's app +8801518-912417
 facebook: http://facebook.com/mehediwoo
